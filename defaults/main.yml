@@ -1,2 +1,4 @@
 ---
 client_max_body_size: 64M
+wp_root: /var/www/html/wordpress
+site_name: example.com
